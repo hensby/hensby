@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hengchao Wang 
+
+Whc0721a@outlook.com
+
+My name is Hengchao Wang. I was born and raised in China and for now I'm working in USA as SDE role. I got my bachelor degree in Mathematics from HFUT(Hefei University of Technology) and my first Master degree in software engineering from BUPT(Beijing University of Posts and Telecommunications) china and then I came to states to pursue my second master degree in Computer Science from UT-Arlington.
+
+
+![hensby's github stats](https://github-readme-stats.vercel.app/api?username=hensby&show_icons=true)
