@@ -20,7 +20,7 @@ Hengchao Wang
 
 Whc0721a@outlook.com
 
-My name is Hengchao Wang. I was born and raised in China and for now, I'm working in the USA as an SDE role. I got my bachelor's degree in Mathematics from `HFUT (Hefei University of Technology)` and my first Master's degree in software engineering from `BUPT (Beijing University of Posts and Telecommunications)` china and then I came to the States to pursue my second master degree in Computer Science from UT-Arlington.
+My name is Hengchao Wang. I was born and raised in China and for now, I'm working in the USA as an SDE role. I got my bachelor's degree in Mathematics from `HFUT (Hefei University of Technology)` and my first Master's degree in software engineering from `BUPT (Beijing University of Posts and Telecommunications)` china and then I came to the States to pursue my second master degree in Computer Science from `UT-Arlington(University of Texas at Arlington)`.
 
 Love ball game, video game and coding.
 
